@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hi, I'm Habibur"
+title: "Hi, I'm Habib's"
 subtitle: Habib's Digital Garden
 css: "/assets/css/index.css"
 share-img: /assets/img/deanimg.jpeg
