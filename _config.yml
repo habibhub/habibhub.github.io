@@ -5,7 +5,7 @@ plugins:
   - jekyll-sitemap
 
 title: Habibur
-author: Habibur Rahaman
+author: Habib
 
 
 navbar-links:
@@ -33,7 +33,7 @@ excerpt_length: 50
 feed_show_excerpt: false
 feed_show_tags: false
 
-keywords: "habibur, habib's, habibur rahaman, rahaman,"
+keywords: "habibur, habib, habibur rahaman, rahaman,"
 
 link-col: "#404040"
 
@@ -42,7 +42,7 @@ mobile-theme-col: "#0085A1"
 site-css: "/assets/css/custom-styles.css"
 site-js: "/assets/js/custom-script.js"
 
-edit_page_button: true
+edit_page_button: false
 
 timezone: "India/Kolkata"
 permalink: /blog/:title/
