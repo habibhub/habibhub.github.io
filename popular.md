@@ -9,7 +9,6 @@ share-description: "List of all the most popular posts by Habib's."
 support_promo_box: true
 cover-img:
    - "/assets/img/big-imgs/costa-rica-house.jpeg" : "Montezuma, Costa Rica (2011)"
-   - "/assets/img/big-imgs/grouse-grind.jpeg" : "Vancouver, Canada (2014)"
    - "/assets/img/big-imgs/hawaii1.jpeg" : "Kauai, HI, USA (2014)"
    - "/assets/img/big-imgs/hawaii2.jpeg" : "Kauai, HI, USA (2014)"
    - "/assets/img/big-imgs/hongkong-infinity-pool.jpeg" : "Hong Kong (2014)"

@@ -4,7 +4,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-title: Habib Hab
+title: Habib
 author: Habib
 
 
@@ -13,14 +13,14 @@ navbar-links:
   Hire me: "/"
   Projects: "projects"
   About Me / Contact: "aboutme"
-  ❤ Support: "https://github.com/sponsors/arlinakiky"
+  ❤ Support: "https://github.com/sponsors/habibhub"
 
 avatar: "/assets/img/habib.jpeg"
 
 social-network-links:
-  email: "trickhubindia@gmail.com"
-  facebook: arlinakiky
-  github: arlinakiky
+  email: "habiburhub@gmail.com"
+  facebook: HabibSuite
+  github: habibhub
   twitter: arlinakiky
   
   
@@ -49,12 +49,12 @@ permalink: /blog/:title/
 paginate: 10
 paginate_path: "/page:num/"
 
-disqus: "arlina-kiky"
+disqus: "habib-hub"
 # gtag: ""
-# fb_app_id: ""
+# fb_app_id: "1743312766163877"
 
 url-pretty: "❤ Support"
-url-canonical: https://github.com/sponsors/arlinakiky
+url-canonical: https://github.com/sponsors/habibhub
 
 defaults:
   -
