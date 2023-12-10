@@ -41,7 +41,7 @@ mobile-theme-col: "#0085A1"
 site-css: "/assets/css/custom-styles.css"
 site-js: "/assets/js/custom-script.js"
 
-edit_page_button: false
+edit_page_button: true
 
 timezone: "India/Kolkata"
 permalink: /blog/:title/
