@@ -10,7 +10,6 @@ author: Habib
 
 navbar-links:
   Blog: "/"
-  Hire me: "/"
   Projects: "projects"
   About Me / Contact: "aboutme"
   ❤ Support: "https://github.com/sponsors/habibhub"
@@ -51,7 +50,7 @@ paginate_path: "/page:num/"
 
 disqus: "habib-hub"
 # gtag: ""
-# fb_app_id: "1743312766163877"
+# fb_app_id: ""
 
 url-pretty: "❤ Support"
 url-canonical: https://github.com/sponsors/habibhub
