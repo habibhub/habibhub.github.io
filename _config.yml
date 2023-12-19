@@ -66,7 +66,7 @@ defaults:
       social-share: true
       show-share: true
       show-subscribe: true
-      support_promo_box: true
+      support_promo_box: false
       after-content: [share-section.html, scroll-box.html]
   -
     scope:
